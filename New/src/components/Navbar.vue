@@ -54,7 +54,7 @@ function toggleAccordion() {
 .sidebar {
   width: 240px;
   height: 100vh;
-  background-color: #2e2e2e;
+  background-color: #D0DFCC;
   color: #fff;
   padding: 20px;
   box-sizing: border-box;
